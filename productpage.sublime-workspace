@@ -1,0 +1,846 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"func",
+				"function"
+			],
+			[
+				"people",
+				"peoplelist"
+			],
+			[
+				"getElement",
+				"getElementsByTagName\t( localName: DOMString ): HTMLCollection Element"
+			],
+			[
+				"doc",
+				"document\t: Document Window"
+			],
+			[
+				"for",
+				"for\tfor (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"Sun",
+				"Sunday"
+			],
+			[
+				"f",
+				"Friday"
+			],
+			[
+				"thu",
+				"Thursday"
+			],
+			[
+				"we",
+				"Wednesday"
+			],
+			[
+				"tue",
+				"Tuesday"
+			],
+			[
+				"grid",
+				"grid-template-areas"
+			],
+			[
+				"ice",
+				"icecream-list"
+			],
+			[
+				"getele",
+				"getElementById\t( elementId: DOMString ): Element Document"
+			],
+			[
+				"now",
+				"nowgen"
+			],
+			[
+				"gen",
+				"genList"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"getEle",
+				"getElementById\t( elementId: DOMString ): Element Document"
+			],
+			[
+				"create",
+				"createElement\t( localName: DOMString ): Element Document"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"class",
+				"classList\t: DOMTokenList Element"
+			],
+			[
+				"just",
+				"justify-self"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"translate",
+				"translateY()"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"gete",
+				"getElementById\t( elementId: DOMString ): Element Document"
+			],
+			[
+				"if",
+				"if\tif"
+			],
+			[
+				"my",
+				"myFunction"
+			],
+			[
+				"fi",
+				"fill"
+			],
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"dark",
+				"darkgoldenrod"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"out",
+				"outset"
+			],
+			[
+				"border",
+				"border-style"
+			],
+			[
+				"back",
+				"background-attachment"
+			],
+			[
+				"ali",
+				"align-content"
+			],
+			[
+				"magrin",
+				"margin-left"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"grid-co",
+				"grid-column-end"
+			],
+			[
+				"s",
+				"flex-start"
+			],
+			[
+				"grid-r",
+				"grid-row-start"
+			],
+			[
+				"gird",
+				"grid-column"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"alig",
+				"align-items"
+			],
+			[
+				"align",
+				"align-items"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"form",
+				"form\tAttr"
+			],
+			[
+				"resu",
+				"results"
+			],
+			[
+				"data",
+				"data2"
+			],
+			[
+				"song",
+				"songUri_mod"
+			],
+			[
+				"quer",
+				"query2"
+			],
+			[
+				"strin",
+				"stringify\t( value: any, replacer?: any, space?: any ): string JSON"
+			],
+			[
+				"query",
+				"req.query[.name]"
+			],
+			[
+				"param",
+				"req.params[.name]"
+			],
+			[
+				"json",
+				"JSON_parse\t( json: string ): any JSON"
+			],
+			[
+				"track",
+				"trackSel"
+			],
+			[
+				"console",
+				"console_log"
+			],
+			[
+				"trac",
+				"trackSel"
+			],
+			[
+				"Jso",
+				"JSON_parse\t( json: string ): any JSON"
+			],
+			[
+				"parse",
+				"parse\t( json: string ): any JSON"
+			],
+			[
+				"myobj",
+				"myobj2"
+			],
+			[
+				"JSOn",
+				"JSON_parse\t( json: string ): any JSON"
+			],
+			[
+				"JSO",
+				"JSON_stringify\t( value: any, replacer?: any, space?: any ): string JSON"
+			],
+			[
+				"request",
+				"request"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"get",
+				"get\tGet Elements"
+			],
+			[
+				"JSON",
+				"JSON_parse\t( json: string ): any JSON"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"conso",
+				"console_log"
+			],
+			[
+				"statu",
+				"statusbar\t: BarProp Window"
+			],
+			[
+				"res",
+				"res.status(code)"
+			],
+			[
+				"reque",
+				"require"
+			],
+			[
+				"const",
+				"const"
+			],
+			[
+				"des",
+				"description1"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"w",
+				"width\t = 'auto' Style CSS"
+			],
+			[
+				"fore",
+				"forecast"
+			],
+			[
+				"Math",
+				"Math_max\t( values...: number ): number Math"
+			],
+			[
+				"filter",
+				"filter\t( callbackfn: Function, thisArg?: any ): Array Array"
+			],
+			[
+				"filt",
+				"filter\t: NodeFilter TreeWalker"
+			],
+			[
+				"sq",
+				"squaredIntegers"
+			],
+			[
+				"arr",
+				"arr2"
+			],
+			[
+				"cons",
+				"console_log"
+			],
+			[
+				"MA",
+				"MATH_CONSTANTS"
+			],
+			[
+				"padi",
+				"padding-top"
+			],
+			[
+				"col",
+				"col-lg-12 \tBootstrap 4 Class"
+			],
+			[
+				"outli",
+				"outline-style"
+			],
+			[
+				"first",
+				"firstName"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"glo",
+				"gloveBoxContents"
+			],
+			[
+				"check",
+				"checkProp"
+			],
+			[
+				"leng",
+				"length\t: int String"
+			],
+			[
+				"First",
+				"FirstReverse"
+			],
+			[
+				"ra",
+				"Range\t(): Range Range"
+			],
+			[
+				"bet",
+				"bet"
+			],
+			[
+				"fixed",
+				"fixed-top \tBootstrap 4 Class"
+			],
+			[
+				"col-sm",
+				"col-sm-6 \tBootstrap 4 Class"
+			],
+			[
+				"im",
+				"img-thumbnail \tBootstrap 4 Class"
+			],
+			[
+				"col-lg",
+				"col-lg-4 \tBootstrap 4 Class"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"col-l",
+				"col-lg-6 \tBootstrap 4 Class"
+			],
+			[
+				"navbar",
+				"navbar-brand \tBootstrap 4 Class"
+			],
+			[
+				"cont",
+				"container"
+			],
+			[
+				"mart",
+				"margin-left"
+			],
+			[
+				"backgound",
+				"background-color"
+			],
+			[
+				"bord",
+				"border-width"
+			],
+			[
+				"backg",
+				"background-repeat"
+			],
+			[
+				"l",
+				"link\tTag"
+			],
+			[
+				"ap",
+				"api_key"
+			],
+			[
+				"REd",
+				"CLIENT_REDIRECT_URI"
+			],
+			[
+				"arttis",
+				"artist_uris_cut"
+			],
+			[
+				"art",
+				"artist_uris"
+			],
+			[
+				"ar",
+				"artist_uris_cut"
+			],
+			[
+				"m",
+				"my_list"
+			],
+			[
+				"playlist",
+				"playlist_id"
+			],
+			[
+				"pla",
+				"playlist_create"
+			],
+			[
+				"play",
+				"playlist_create"
+			],
+			[
+				"pl",
+				"playlist_create"
+			],
+			[
+				"cl",
+				"CLIENT_REDIRECT_URI"
+			],
+			[
+				"cli",
+				"CLIENT_SECRET"
+			],
+			[
+				"Cl",
+				"CLIENT_ID"
+			],
+			[
+				"mylis",
+				"mylist_sorted"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "for",
+		"selected_items":
+		[
+			[
+				"for",
+				"Snippet: for (…) {…}"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Snippet: html"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"sniptp",
+				"Snippet: htmlboiler"
+			],
+			[
+				"arrow",
+				"Snippet: ES6 Arrow Function"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"java",
+				"Set Syntax: Java Properties"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 158.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"print('hello')",
+			"print('hello*)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Eier/Desktop/koding/web_dev_practise/chrome_ex/options.html",
+		"/C/Users/Eier/Desktop/koding/web_dev_practise/chrome_ex/server.js",
+		"/C/Users/Eier/Desktop/koding/web_dev_practise/chrome_ex/options.js",
+		"/C/Users/Eier/Desktop/koding/web_dev_practise/chrome_ex/popup.html",
+		"/C/Users/Eier/Desktop/koding/web_dev_practise/chrome_ex/background.js",
+		"/C/Users/Eier/Desktop/koding/web_dev_practise/chrome_ex/manifest.json.js",
+		"/C/Users/Eier/Desktop/koding/web_dev_practise/chrome_ex/manifest.js",
+		"/C/Users/Eier/Desktop/koding/web_dev_practise/assign3/styles/style.css",
+		"/C/Users/Eier/Desktop/koding/web_dev_practise/assign3/reservations.html",
+		"/C/Users/Eier/Desktop/koding/web_dev_practise/assign3/scripts/script.js",
+		"/C/Users/Eier/Desktop/koding/ticketmaster/TM_Spoofy_gen.py",
+		"/C/Users/Eier/Desktop/koding/ticketmaster/ticketpy_test.py",
+		"/C/Users/Eier/Desktop/koding/spoofytest.py",
+		"/C/Users/Eier/Desktop/koding/user_playlists_contents.py",
+		"/C/Users/Eier/Desktop/koding/ex2.py",
+		"/C/Users/Eier/Desktop/koding/pythoncsv/spotify_fin.py",
+		"/C/Users/Eier/Desktop/koding/api_practice.py",
+		"/C/Users/Eier/Desktop/koding/ticketmaster/playlist_test.py",
+		"/C/Users/Eier/Desktop/koding/penisovelse.py",
+		"/C/Users/Eier/Desktop/koding/ticketmaster/search_test.py",
+		"/C/Users/Eier/Desktop/koding/ticketmaster/ticketpy_test_2.py",
+		"/C/Users/Eier/Desktop/koding/ticketmaster/web_connection.py",
+		"/C/Users/Eier/Desktop/koding/web_dev_practise/assign3/productpage.html",
+		"/C/Users/Eier/Desktop/koding/web_dev_practise/assign3/coursework3-sources/ice-creams-menu/index.html",
+		"/C/Users/Eier/Desktop/koding/web_dev_practise/assign3/scripts/menu-db.js",
+		"/C/Users/Eier/Desktop/koding/web_dev_practise/assign3/script.js",
+		"/C/Users/Eier/Desktop/koding/web_dev_practise/assign3/coursework3-sources/ice-creams-menu/menu-db.js",
+		"/C/Users/Eier/Desktop/koding/web_dev_practise/express_prac/test.js",
+		"/C/Users/Eier/Desktop/koding/web_dev_practise/express_prac/views/search.ejs",
+		"/C/Users/Eier/Desktop/koding/web_dev_practise/express_prac/views/results.ejs",
+		"/C/Users/Eier/Desktop/koding/web_dev_practise/express_prac/views/selection.ejs",
+		"/C/Users/Eier/Desktop/koding/web_dev_practise/express_prac/public/css/style.css",
+		"/C/Users/Eier/Desktop/koding/web_dev_practise/express_prac/public/SVG/1x/keywheelmdpi.png",
+		"/C/Users/Eier/Desktop/koding/web_dev_practise/express_prac/spoofyajax.html",
+		"/C/Users/Eier/Desktop/koding/web_dev_practise/express_prac/views/placeholder.ejs",
+		"/C/Users/Eier/Desktop/koding/web_dev_practise/express_prac/views/test.html",
+		"/C/Users/Eier/Desktop/koding/web_dev_practise/express_prac/package.json",
+		"/C/Users/Eier/Desktop/koding/web_dev_practise/css_prac/index.html",
+		"/C/Users/Eier/Desktop/koding/web_dev_practise/css_prac/styling.css",
+		"/C/Users/Eier/Desktop/koding/web_dev_practise/canvas_prac/canvas.js",
+		"/C/Users/Eier/Desktop/koding/web_dev_practise/canvas_prac/canvas.css",
+		"/C/Users/Eier/Desktop/koding/web_dev_practise/canvas_prac/canvas.html",
+		"/C/Users/Eier/spotifyapp/web-api-auth-examples/authorization_code/app.js",
+		"/C/Users/Eier/spotifyapp/web-api-auth-examples/authorization_code/public/index.html",
+		"/C/Users/Eier/Desktop/koding/web_dev_practise/frecodecamp.js",
+		"/C/Users/Eier/Desktop/koding/web_dev_practise/freecodecamp.js",
+		"/C/Users/Eier/spotifyapp/web-api-auth-examples/package.json",
+		"/C/Users/Eier/Desktop/koding/web_dev_practise/chart_ex/spoofy_data.js",
+		"/C/Users/Eier/Desktop/koding/web_dev_practise/chart_ex/chart_test.html",
+		"/C/Users/Eier/project1/local-audio-visualizer/index.html",
+		"/C/Users/Eier/project1/local-audio-visualizer/js/app.js",
+		"/C/Users/Eier/project1/local-audio-visualizer/js/local_audio_visualizer.js",
+		"/C/Users/Eier/project1/voice-change-o-matic/index.html",
+		"/C/Users/Eier/project1/voice-change-o-matic/scripts/app.js",
+		"/C/Users/Eier/project1/getting-started/nodejs/index.js",
+		"/C/Users/Eier/project1/getting-started/nodejs/notes.js",
+		"/C/Users/Eier/project1/getting-started/python/getting_started.py",
+		"/C/Users/Eier/project1/getting-started/nodejs/package.json",
+		"/C/Users/Eier/Desktop/koding/web_dev_practise/package.json",
+		"/C/Users/Eier/Desktop/koding/app/templates/home.html",
+		"/C/Users/Eier/Desktop/koding/web_dev_practise/bootsrap_prac/randomtest.js",
+		"/C/Users/Eier/node_modules/spotify-web-api-js/src/spotify-web-api.js",
+		"/C/Users/Eier/Desktop/DemoApp/dm_app.js",
+		"/C/Users/Eier/Desktop/koding/web_dev_practise/test1.js",
+		"/C/Users/Eier/Desktop/koding/web_dev_practise/test1.html",
+		"/C/Users/Eier/Desktop/koding/web_dev_practise/bootsrap_prac/app.css",
+		"/C/Users/Eier/Desktop/koding/web_dev_practise/bootsrap_prac/purrfectmatch.html",
+		"/C/Users/Eier/Desktop/koding/web_dev_practise/bootsrap_prac/cassprac.css",
+		"/C/Users/Eier/Desktop/koding/web_dev_practise/bootsrap_prac/cassprac.html",
+		"/C/Users/Eier/Desktop/koding/web_dev_practise/bootsrap_prac/randomtest.html",
+		"/C/Users/Eier/Desktop/koding/web_dev_practise/bootsrap_prac/boot_test.html",
+		"/C/Users/Eier/Desktop/koding/audio_viz/audio_test.js",
+		"/C/Users/Eier/Desktop/koding/audio_viz/audio_test_html.html",
+		"/C/Users/Eier/Desktop/koding/web_dev_practise/bootsrap_prac/css/bootstrap.css",
+		"/D/nedlastninger_2/07-Image-Gallery/07_Image_Gallery/gallery.md",
+		"/C/Users/Eier/Desktop/koding/web_dev_practise/bootsrap_prac/image_gallery.html",
+		"/C/Users/Eier/node_modules/request/README.md",
+		"/C/Users/Eier/node_modules/request/request.js",
+		"/D/nedlastninger_2/Image-Gallery-Solution/Image_Gallery_Solution/gallery.html",
+		"/C/Users/Eier/Desktop/koding/web_dev_practise/bootsrap_prac/js/bootstrap.js",
+		"/C/Users/Eier/Desktop/koding/web_dev_practise/bootsrap_prac/06_Grid/grid.html",
+		"/C/Users/Eier/Desktop/koding/web_dev_practise/node_test.js",
+		"/C/Users/Eier/Desktop/koding/web_dev_practise/node_test",
+		"/C/Users/Eier/AppData/Roaming/Sublime Text 3/Packages/User/node.sublime-build",
+		"/C/Users/Eier/Desktop/koding/web_dev_practise/test1.css",
+		"/C/Users/Eier/Desktop/koding/web_dev_practise/09_Selector_Exercise_Starter/selectors.css",
+		"/C/Users/Eier/Desktop/koding/web_dev_practise/09_Selector_Exercise_Starter/selectorsExercise.html",
+		"/C/Users/Eier/AppData/Roaming/Sublime Text 3/Packages/User/View In Browser.sublime-settings",
+		"/C/Users/Eier/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/Eier/Desktop/koding/app/ticketpy_web_test.py",
+		"/C/Users/Eier/Desktop/koding/testitest.html",
+		"/C/Users/Eier/Desktop/koding/testitest.css",
+		"/C/Users/Eier/Desktop/koding/classtest.py",
+		"/D/nedlastninger_2/Tables-Html.zip",
+		"/C/Users/Eier/Desktop/koding/app/hello.py",
+		"/C/Users/Eier/Desktop/koding/ticketmaster/config2.py",
+		"/C/Users/Eier/Desktop/koding/config.py",
+		"/C/Users/Eier/Desktop/koding/pythoncsv/some.csv",
+		"/C/Users/Eier/Desktop/koding/pythoncsv/spotify_dummy.py",
+		"/C/Users/Eier/Desktop/koding/pythoncsv/parse_csv.py",
+		"/C/Users/Eier/Desktop/koding/csv_reader.py",
+		"/C/Users/Eier/Desktop/koding/practice.py",
+		"/C/Users/Eier/Desktop/koding/test.js",
+		"/D/nedlastninger_2/params.py",
+		"/D/nedlastninger_2/debugging.py",
+		"/D/nedlastninger_2/zip.py",
+		"/D/nedlastninger_2/min-max.py",
+		"/C/Users/Eier/Desktop/koding/app/templates/about.html",
+		"/C/Users/Eier/Desktop/koding/app/templates/layout.html",
+		"/C/Users/Eier/Desktop/koding/json_opener.py",
+		"/C/Users/Eier/Desktop/koding/ex.py",
+		"/C/Users/Eier/Desktop/koding/info.json",
+		"/C/Users/Eier/Desktop/koding/home.html",
+		"/C/Users/Eier/Desktop/koding/hello.py",
+		"/C/Users/Eier/Desktop/koding/dummytest.py",
+		"/C/Users/Eier/Desktop/koding/flip_coin.py",
+		"/D/nedlastninger_2/v2.py",
+		"/D/nedlastninger_2/rock-paper-scissor.py",
+		"/D/nedlastninger_2/bouncer.py",
+		"/C/Users/Eier/Desktop/koding/testfile.py",
+		"/C/Users/Eier/Desktop/koding/palindrome.py",
+		"/C/Users/Eier/Desktop/koding/pythoncsv/testcsv.csv",
+		"/C/Users/Eier/Desktop/koding/miles_con.py",
+		"/C/Users/Eier/Desktop/koding/100_year_calc.py",
+		"/C/Users/Eier/Desktop/koding/demo.py",
+		"/C/Users/Eier/Desktop/koding/prosjekt1",
+		"/C/Users/Eier/Desktop/kodeprosjekt"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 202.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/node.sublime-build",
+	"project": "productpage.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Eier\\Desktop\\koding\\web_dev_practise\\chart_ex\\chart_test.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 190.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

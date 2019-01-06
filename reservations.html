@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Make a reservation!</title>
+	<link rel="stylesheet" type="text/css" href="styles/style.css">
+	<link href="https://fonts.googleapis.com/css?family=Rubik+Mono+One" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Inconsolata" rel="stylesheet">
+	<meta charset="UTF-8">
+	<meta name="description" content="Gjøvik's favourite ice cream shop!">
+  	<meta name="keywords" content="ice cream, Gjøvik, horror">
+  	<meta name="author" content="Mr. ice cream man">
+</head>
+<body>
+	<nav>
+		<img src="img/icecream1.png" id="header-img" alt="iscream-logo">
+		<ul>
+			<li><a href="index.html">Home</a></li>
+			<li><a href="products.html">Products</a></li>
+			<li><a href="reservations.html">Reservations</a></li>
+			<li><a href="contact.html">Contacts</a></li>
+		</ul>
+	</nav>
+	<div id="reservations-container">
+		<div id="right-side-container">
+			<div class="img-wrapper">
+				<img src="img/icecreamicon1.png" alt="devilsh-ice-cream" id="res-img">
+				<h1>Make a reservation</h1>
+			</div>
+			<form id="resForm">
+				First name: <input type="text" name="fname" required>
+				Last name: <input type="text" name="lname" required>
+				Weekday:<select id="dayPicker" name="date" onchange="evalOpeningHours();">
+					<option value="0" selected="selected">Select a day</option>
+					<option value="1">Monday</option>
+					<option value="2">Tuesday</option>
+					<option value="3">Wednesday</option>
+					<option value="4">Thursday</option>
+					<option value="5">Friday</option>
+					<option value="6">Saturday</option>
+					<option value="7">Sunday</option>
+		  		</select>
+		  		From: <input type="time" id="timepickerFrom" name="timeFrom" min="10:00" onchange="inform();" required>
+		  		To: <input type="time" id="timepickerTo" name="timeTo" min="10:00" onchange="inform();" required>
+		  		adults: <select id="adults" name="adult">
+					<option value="0" selected="selected">0</option>
+					<option value="1">1</option>
+					<option value="2">2</option>
+					<option value="1">3</option>	
+				</select>
+		  		children: <select id="children" name="child">
+					<option value="0" selected="selected">0</option>
+					<option value="1">1</option>
+					<option value="2">2</option>
+					<option value="1">3</option>
+				</select>
+				infants: <select id="infants" name="infant">
+					<option value="0" selected="selected">0</option>
+					<option value="1">1</option>
+					<option value="2">2</option>
+					<option value="1">3</option>	
+				</select>
+		        e-mail: <input type="text" name="email">
+		        Phone: <input type="text" name="phone">
+		        comment: <input type="text" name="comment">
+				<input id ="button" type="submit" value="submit">
+			</form>
+		</div>
+		<div class="timetable">
+			<div class="head">Time</div>
+			<div class="head">Monday</div>
+			<div class="head">Tuesday</div>
+			<div class="head">Wednesday</div>
+			<div class="head">Thursday</div>
+			<div class="head">Friday</div>
+			<div class="head">Saturday</div>
+			<div class="head">Sunday</div>
+			<div class="timeslot">10:00</div>
+			<div class="timeslot">11:00</div>
+			<div class="timeslot">12:00</div>
+			<div class="timeslot">13:00</div>
+			<div class="timeslot">14:00</div>
+			<div class="timeslot">15:00</div>
+			<div class="timeslot">16:00</div>
+			<div class="timeslot">17:00</div>
+			<div class="timeslot">18:00</div>
+			<div class="timeslot">19:00</div>
+			<div class="timeslot">20:00</div>
+			<div class="timeslot">21:00</div>
+			<div class="timeslot">22:00</div>
+		</div>
+	</div>
+	<script src="scripts/script.js"></script>
+</body>
+</html>

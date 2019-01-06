@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Products</title>
+	<link rel="stylesheet" type="text/css" href="styles/style.css">
+	<link href="https://fonts.googleapis.com/css?family=Rubik+Mono+One" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Inconsolata" rel="stylesheet">
+	<meta charset="UTF-8">
+	<meta name="description" content="Gjøvik's favourite ice cream shop!">
+  	<meta name="keywords" content="ice cream, Gjøvik, horror">
+  	<meta name="author" content="Mr. ice cream man">
+</head>
+<body>
+	<nav>
+		<img src="img/icecream1.png" id="header-img" alt="iscream-logo">
+		<ul>
+			<li><a href="index.html">Home</a></li>
+			<li><a href="products.html">Products</a></li>
+			<li><a href="reservations.html">Reservations</a></li>
+			<li><a href="contact.html">Contacts</a></li>
+		</ul>
+	</nav>
+	<div id="products-container">
+		<div class="img-wrapper">
+			<img src="img/icecreamicon2.png" alt="scared-ice-cream" id="prod-img">
+			<h1 id="head-fix">Horribly delicious!</h1>
+		</div>
+		<p id ="prod-desc">From ghastly goodies, to dreadful diabetes! Take a look at our fine selection of horric treats. You can even organize by price, name or category! </p>
+		<div id="btn-container">
+			<button id="ic" onclick="reveal('ice creams', this.id)">Ice creams</button>
+			<button id="sd" onclick="reveal('sundaes', this.id)">Sundaes</button>
+			<button id="ms" onclick="reveal('mousses', this.id)">Mousses</button>
+			<button id="st" onclick="reveal('smoothies', this.id)">Smoothies</button>
+			<select id="sorting" onchange="runSort(this.value)">
+			  <option value = "0" selected="selected" disabled="disabled">sort by:</option>
+			  <option value="price">Price</option>
+			  <option value="name">Name</option>
+			  <option value="description">Description</option>
+			</select>
+		</div>
+		<dl id ="icecream-list"></dl>
+	</div>
+	<script src="scripts/menu-db.js"></script>
+	<script src="scripts/script.js"></script>
+</body>
+</html>
